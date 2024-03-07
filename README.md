@@ -6,7 +6,8 @@ Project was last updated on: 12 June 2023
 This project explored data cleaning/ETL scripts, SQL queries, and a PowerBI report, along with the implementation of a star schema using SQL Server Management Studio, as well as the intricacies of multi-dimensional analysis service solutions and visualize results through Power BI. I received a grade of around 80% for this project.
 
 **Clarification**
-I didn't upload the csv files because I felt like they would've just been there and that like 8 csv files would serve little to no purpose when it comes to showcasing this project, but basically the csv files were just of data that related to the crime data set, linked with an ID number for the dimensions and fact tables. So I'll have csv files for the 2 location dimensions, 1 csv file for a date dimension, the IDs for the locations, and the crime ID itself for identification. It was essentially multiple csv files from one whole csv file of all the data you'd possibly need for a single crime (single row) separated into different sections but still interconnected.
+
+>I didn't upload the csv files because I felt like they would've just been there and that like 8 csv files would serve little to no purpose when it comes to showcasing this project, but basically the csv files were just of data that related to the crime data set, linked with an ID number for the dimensions and fact tables. So I'll have csv files for the 2 location dimensions, 1 csv file for a date dimension, the IDs for the locations, and the crime ID itself for identification. It was essentially multiple csv files from one whole csv file of all the data you'd possibly need for a single crime (single row) separated into different sections but still interconnected.
 
 ## Project Overview
 
