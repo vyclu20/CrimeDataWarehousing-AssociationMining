@@ -1,4 +1,4 @@
-:setvar ProjectSQL "C:\Users\fredd\Documents\Uni\CITS3401 Data Warehousing\Project\"
+:setvar ProjectSQL "C:\Users\Documents\Data Warehousing\Project\"
 :setvar DatabaseName "CrimeIncidents"
 
 PRINT '';
