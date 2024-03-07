@@ -17,22 +17,21 @@ This project delves into the realm of data warehousing and association rule mini
 >Population of tables through SQL commands from cleaned CSV files.
 >Development of a multi-dimensional analysis service solution in SQL Server Data Tools.
 
-Visualization in Power BI:
+**Visualization in Power BI:**
 
-Utilization of Power BI for visualizing data and presenting insights.
-Integration of StarNet diagrams and cube diagrams to enhance data interpretation.
+>Utilization of Power BI for visualizing data and presenting insights.
+>Integration of StarNet diagrams and cube diagrams to enhance data interpretation.
 
-Association Rule Mining:
+**Association Rule Mining:**
 
-Processing the crime dataset into a case table and a nested table.
-Explanation and interpretation of the top k association rules, focusing on the "crime" type.
+>Processing the crime dataset into a case table and a nested table.
+>Explanation and interpretation of the top k association rules, focusing on the "crime" type.
 
-Deliverables:
+**Deliverables:**
 
-PowerBI file and PDF report for visualizations.
-Data cleaning/ETL script and SQL script with cleaned CSV files.
-Solution project file and folder for the SSDT analysis service multi-dimensional project.
-PDF file detailing the association rule mining process and results.
-Explore the contents of this repository to gain insights into crime data analytics and business intelligence.
+>PowerBI file and PDF report for visualizations.
+>Data cleaning/ETL script and SQL script with cleaned CSV files.
+>Solution project file and folder for the SSDT analysis service multi-dimensional project.
+>PDF file detailing the association rule mining process and results.
 
 ⭒■━━━━━━━━━━━━━━━■⭒
